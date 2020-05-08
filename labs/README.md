@@ -2,8 +2,31 @@
 
 ## database labs
 
+### Lab9: E/R Model
+[lab09 E/R Model](./lab09DbSystemERmodelStudent.pdf)
+
+### Lab8: Stored Procedure in SQL
+[lab08 Stored Procedure in SQL](./lab08bDbSystemAdSQLProcedureFigStudent.pdf)
+
+### Lab7: Stored Function in SQL
+[lab07 Stored Function in SQL](./lab07DbSystemAdSQLFuncStudent.pdf)
+
+### Lab6: SQL performance Test
+[lab06 SQL performance Test](./lab06DbSystemSQLperformanceTestStudent.pdf)
+
+### Lab5: python and advanced sql
+[lab05 python and advanced sql II ](./lab05DbSystemBasicSQL3_view_rankStudent.pdf)
+
+### Lab4: python and advanced sql
+[lab04 python and advanced sql ](./lab04DbSystemBasicSQLStudent.pdf)
+
+### Lab3: python and basic sql
+[lab03 python and basic sql ](./lab03DbSystemStudent.pdf)
+
+### Lab2: create new db and import data
 [lab02 create new db and import data](./lab02DbSystemStudent.pdf)
 
+### Lab1: prepare for database labs
 [lab01 Prepare the basic environment](./lab01DbSystemPrepareStudent.pdf)
 
 #### Operating System

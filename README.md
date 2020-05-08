@@ -1,12 +1,25 @@
 # database system principle
 ## thinking at the beginning of the class
 毛泽东 七律·送瘟神·其一 1958.6<br/>
-绿水青山枉自多，华佗无奈小虫何！<br/>
-千村薜荔人遗矢，万户萧疏鬼唱歌。<br/>
-坐地日行八万里，巡天遥看一千河。<br/>
-牛郎欲问瘟神事，一样悲欢逐逝波。<br/>
+绿水青山枉自多，华佗无奈小虫何！千村薜荔人遗矢，万户萧疏鬼唱歌。<br/>
+坐地日行八万里，巡天遥看一千河。牛郎欲问瘟神事，一样悲欢逐逝波。<br/>
 
 ## coursewares
+
+### Lecture 10~11
+[E-R Model](./docs/lecture007DbSystemERModelR6.pdf)
+
+### Lecture 9
+[Relational Algebra and Calculus](./docs/lecture006DbSystemRelationalAlgebraCalculus.pdf)
+
+### Lecture 8
+[SQL Query Language Advanced](./docs/lecture005DbSystemSQL3advanced.pdf)
+
+### Lecture 6~7
+[SQL Query Language Intermediate](./docs/lecture004DbSystemSQL2intermediate.pdf)
+
+### Lecture 5
+[SQL Query Language](./docs/lecture003DbSystemSQL1basicR6.pdf)
 
 ### Lecture 3~4
 [Relational DB Model](./docs/lecture002DbSystemRDbModelR6.pdf)
@@ -17,6 +30,28 @@
 ## database labs
 
 see [labs/README.md](./labs/README.md)<br/>
+
+### Lab9: E/R Model
+[lab09 E/R Model](./labs/lab09DbSystemERmodelStudent.pdf)
+
+### Lab8: Stored Procedure in SQL
+[lab08 Stored Procedure in SQL](./labs/lab08bDbSystemAdSQLProcedureFigStudent.pdf)
+
+### Lab7: Stored Function in SQL
+[lab07 Stored Function in SQL](./labs/lab07DbSystemAdSQLFuncStudent.pdf)<br/>
+
+### Lab6: SQL performance Test
+[lab06 SQL performance Test](./labs/lab06DbSystemSQLperformanceTestStudent.pdf)<br/>
+[db script](./res/sqlperformancetest.sql)
+
+### Lab5: python and advanced sql II
+[lab05 python and advanced sql II ](./labs/lab05DbSystemBasicSQL3_view_rankStudent.pdf)
+
+### Lab4: python and advanced sql
+[lab04 python and advanced sql ](./labs/lab04DbSystemBasicSQLStudent.pdf)
+
+### Lab3: python and basic sql
+[lab03 python and basic sql ](./labs/lab03DbSystemStudent.pdf)
 
 ### Lab2: create new db and import data
 [lab02 create new db and import data](./labs/lab02DbSystemStudent.pdf)
